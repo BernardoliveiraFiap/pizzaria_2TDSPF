@@ -1,8 +1,8 @@
 spring:
   datasource:
     url: jdbc:oracle:thin:@oracle.fiap.com.br:1521:ORCL
-    username: pf1646
-    password: fiap23
+    username: RM551356
+    password: 200604
   jpa:
     hibernate:
       ddl-auto: none
